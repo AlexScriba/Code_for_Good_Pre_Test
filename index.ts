@@ -1,2 +1,2 @@
-console.log('Hello Code For Good');
+console.log('Code For Good');
 
